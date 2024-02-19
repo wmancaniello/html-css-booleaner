@@ -1,0 +1,17 @@
+.intestazione{
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    height: 80px;
+}
+
+.logo{
+    width: 10%;
+}
+
+.title-footer{
+    color: grey;
+}
+
+.mark{
+    color: lightskyblue;
+}
