@@ -15,3 +15,7 @@
 .mark{
     color: lightskyblue;
 }
+
+.highlighted{
+    background-color: yellow;
+}
