@@ -33,3 +33,15 @@ thead{
 .line{
     background-color: lightblue;
 }
+
+h4{
+    color: grey;
+}
+
+.text1{
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+    /* ??? */
+
+}
